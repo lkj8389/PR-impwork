@@ -5,9 +5,9 @@ where SVM,KNN used sklearn package
 In each notebook,voter class is for voting,classifier class is for linear discription.
 you can read the iris example of using these object for understanding. 
 
-Requirement:
-python 3.6
-package:
+Requirement: \n
+python 3.6   \n
+package:    \n
 sklearn
 mlxtend
 numpy

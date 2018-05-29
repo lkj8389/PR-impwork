@@ -1,9 +1,14 @@
 # PR-impwork
 some implements of pattern classificaion course including perceptron,relaxation procedure,MSE,Fisher,Ho-kashyap,SVM,KNN
-where SVM,KNN used sklearn package
 
+for python version,we use the jupyter notebook for using matplotlib directly  
 In each notebook,voter class is for voting,classifier class is for linear discription.
 you can read the iris example of using these object for understanding. 
+
+for matlab version,we use matlab 2015 to code all the algrithm  
+In each files,there are both function method and lauch file,check it for yourself.
+
+enjoy the pattern classification course.
 
 Requirement:  
 
@@ -18,6 +23,8 @@ sklearn
 mlxtend  
 
 numpy  
+
+matplotlib
 
 
 仅供参考。

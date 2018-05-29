@@ -1,0 +1,7 @@
+The 1 cycle --- Acc: 1.000000  --- time: 0.020727 
+The 2 cycle --- Acc: 1.000000  --- time: 0.009557 
+The 3 cycle --- Acc: 1.000000  --- time: 0.009392 
+The 4 cycle --- Acc: 0.900000  --- time: 0.009350 
+The 5 cycle --- Acc: 0.900000  --- time: 0.009282 
+.......  mean AUC = 0.960000	std = 0.054772 ........
+....... mean time = 0.011662	std = 0.005069 .......

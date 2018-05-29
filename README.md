@@ -9,6 +9,8 @@ Requirement:
 
 python 3.6  
 
+or matlab version >=2015  
+
 package:  
 
 sklearn  
@@ -18,7 +20,7 @@ mlxtend
 numpy  
 
 
-仅供参考，请自行勘误。  
+仅供参考。
 不嫌烦的话请猛戳右上角的小星星吧！
 
 注（notation）：  
@@ -30,4 +32,7 @@ numpy
     ganzhiqi.ipynb = 感知器算法（perceptron）  
     
     MSE.ipynb = 直接求解w的伪逆求解算法，没有涉及迭代近似，并非适用于所有数据集 （directly calculate the solution vecter a)
+    
+    matlab 版本的所有程序入口都是 _wrap.mat文件 (the lauching file for matlab version is xx_wrap.mat)
+    
     

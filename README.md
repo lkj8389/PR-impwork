@@ -35,4 +35,5 @@ numpy
     
     matlab 版本的所有程序入口都是 _wrap.mat文件 (the lauching file for matlab version is xx_wrap.mat)
     
-    
+    推荐使用matlab版本，因为无需进行包控制和版本确定。
+    （we recommend you to use the matlab version which require no version control)
